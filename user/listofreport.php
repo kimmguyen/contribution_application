@@ -75,7 +75,7 @@
                                 <tbody style="text-align: center;">
                                     <tr>
                                         <th scope="row" style="padding: 2.5%;">1</th>
-                                        <td><img src="../images/AvatarListofReport.png"></td>
+                                        <td><img src="./images/AvatarListofReport.png"></td>
                                         <td style="padding: 2.5%;">Nguyen Thu Thuy</td>
                                         <td style="padding: 2.5%;">haduc2468@gmail.com</td>
                                         <td style="padding: 1.5%;"><button style="border-radius: 20px" type="button" class="btn btn-success">NOT GRADE</button></td>
@@ -84,7 +84,7 @@
                                     </tr>
                                     <tr>
                                         <th scope="row">2</th>
-                                        <td><img src="../images/AvatarListofReport.png"></td>
+                                        <td><img src="./images/AvatarListofReport.png"></td>
                                         <td style="padding: 2.5%;">Nguyen Thu Thuy</td>
                                         <td style="padding: 2.5%;">haduc2468@gmail.com</td>
                                         <td style="padding: 1.5%;"><button style="border-radius: 20px" type="button" class="btn btn-success">NOT GRADE</button></td>
@@ -93,7 +93,7 @@
                                     </tr>
                                     <tr>
                                         <th scope="row">3</th>
-                                        <td><img src="../images/AvatarListofReport.png"></td>
+                                        <td><img src="./images/AvatarListofReport.png"></td>
                                         <td style="padding: 2.5%;">Nguyen Thu Thuy</td>
                                         <td style="padding: 2.5%;">haduc2468@gmail.com</td>
                                         <td style="padding: 1.5%;"><button style="border-radius: 20px" type="button" class="btn btn-danger">GRADED</button></td>
